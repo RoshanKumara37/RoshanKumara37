@@ -209,7 +209,10 @@ District Rank: 12
 
 # 🌍 Connect
 
-📧 [rpskumara49@gmail.com](mailto:rpskumara49@gmail.com)
-🔗 [https://www.linkedin.com/in/roshankumara](https://www.linkedin.com/in/roshankumara)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpskumara49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshankumara)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RoshanKumara37)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94769620037)
 
 ---
